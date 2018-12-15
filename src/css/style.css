@@ -654,6 +654,10 @@ a[href^=tel] {
     padding: 22px 0;
 }
 
+.header-logo {
+    width:50%;
+}
+
 /* Main navigation */
 
 .navbar {
@@ -2375,6 +2379,7 @@ h4.panel-title a.collapsed:before {
     -webkit-background-size: cover;
     background-size: cover;
     -webkit-backface-visibility: hidden;
+    background-image: url(../images/banner/banner_1.jpg);
 }
 .page-banner-title {
     position: absolute;
